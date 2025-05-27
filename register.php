@@ -1,6 +1,5 @@
 <?php  
 //header links
-// NAS/STE/21/1111 - BY MUHAMMAD BASHIR YUNUSA
  require "inc/header.php"; ?>
 
 <div class="container">
