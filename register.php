@@ -1,5 +1,5 @@
 <?php  
-//header links
+//header links 
  require "inc/header.php"; ?>
 
 <div class="container">
